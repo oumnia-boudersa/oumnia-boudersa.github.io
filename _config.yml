@@ -13,8 +13,8 @@ title                    : "Oumnia Boudersa"
 title_separator          : "-"
 name                     : &name "Oumnia Boudersa"
 description              : &description "MSc student in Artificial Intelligence at Université de Montréal, researcher in NLP, computer vision, and adversarial machine learning."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://oumnia-boudersa.github.io # the base hostname & protocol for your site
+baseurl                  : "/teaching" # the subpath of your site, e.g. "/teaching"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.

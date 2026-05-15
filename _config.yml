@@ -13,9 +13,9 @@ title                    : "Oumnia Boudersa"
 title_separator          : "-"
 name                     : &name "Oumnia Boudersa"
 description              : &description "MSc student in Artificial Intelligence at Université de Montréal, researcher in NLP, computer vision, and adversarial machine learning."
-url                      : https://oumnia-boudersa.github.io # the base hostname & protocol for your site
-baseurl                  : "/teaching" # the subpath of your site, e.g. "/teaching"
-repository               : "academicpages/academicpages.github.io"
+url                      : "https://oumnia-boudersa.github.io" # the base hostname & protocol for your site
+baseurl                  : "" # the subpath of your site, e.g. "/teaching"
+repository               : "oumnia-boudersa/oumnia-boudersa.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

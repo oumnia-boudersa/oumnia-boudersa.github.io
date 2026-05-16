@@ -22,7 +22,7 @@ repository               : "oumnia-boudersa/oumnia-boudersa.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar2.png"
+  avatar           : "avatar3.png"
   name             : "Oumnia Boudersa"
   pronouns         : "she/her"  
   bio              : "MSc student in Artificial Intelligence at Université de Montréal. Interested in NLP, computer vision, adversarial machine learning, and multimodal AI."

@@ -110,7 +110,7 @@ For readers interested in implementation details, experimental settings, and com
 
 ### Documents
 - [📄 Full Project Report (PDF)](/files/IFT6164_Final_Project_Report.pdf)
-- [🖼️ Poster Presentation (PDF)](/files/IFT6164_Poster.pdf)
+- [🖼️ Poster Presentation (PDF)](/files/ift6164_Poster.pdf)
 
 ### Code Repositories
 - [Handcrafted Backdoors Implementation](https://github.com/oumnia-boudersa/Handcrafted-Backdoors-in-Deep-Neural-Networks-Implementation)
